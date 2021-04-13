@@ -10,8 +10,13 @@
 <%= f.label :password, "Password" %>
 <%= f.password_field :password, class:"form-control", placeholder:"type your password here" %>
 </div>
-<div class="mb-3">
-<%= f.submit "Sign In" %>
+<div class="mb-3 d-flex flex-row justify-content-between">
+<div>
+<%= f.submit "Sign In" %></div>
+<div>
+<%= link_to "I Forgot My Password", password_reset_path %>
+</div>
+
 </div>
 </div>
 <% end %>
