@@ -1,24 +1,7 @@
-# README
+# TimedTweets
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Made for Learning purposes
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Acknowlegments
+- This project is inspired by following tutorial. 
+- https://gorails.com/episodes/rails-for-beginners-part-1-installing-ruby-on-rails
